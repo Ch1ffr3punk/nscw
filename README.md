@@ -2,7 +2,7 @@
 
 An easy to use wrapper for [Mixfit](https://github.com/Ch1ffr3punk/Mixfit) to use the Nym Mixnet free of charge,  
 once a friend of yours has set-up a nym-network-requester on a VPS.           
-Please leave the provided official nym-socks5-client.exe in the same Folder as nscw.exe.    
+Please leave the provided official nym-socks5-client.exe in the same folder as nscw.exe.    
 
 ![NSCW](img/1.png)
   
